@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# market_place_api
+>>>>>>> 942bb7a0404a8499e72968899e1bc9da39ff4a38
